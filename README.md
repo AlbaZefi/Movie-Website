@@ -1,2 +1,2 @@
 # Movie-Website
- University project
+This is one of my university projects.
